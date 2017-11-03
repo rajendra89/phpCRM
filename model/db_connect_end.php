@@ -1,0 +1,4 @@
+<?php 
+
+	$mysqli-> close();
+ ?>
